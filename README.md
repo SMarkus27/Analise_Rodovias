@@ -15,5 +15,8 @@ Realizar a modelagem e transformação dos dados para serem exportados para o Po
  </ul>
 <h3>Para visualizar a análise completa feita neste projeto:</h3>
 <br>
-<a href='https://github.com/SMarkus27/Analise_Rodovias/blob/main/acidentes.ipynb'>Análise Rodovias</a> 
-<h3>Para visualizar a imagem do dashboard construindo:</h3>
+<a href='https://github.com/SMarkus27/Analise_Rodovias/blob/main/acidentes.ipynb'>Análise Rodovias</a>
+<a href='https://github.com/SMarkus27/Analise_Rodovias/blob/main/acidentes.pbix'>Power BI</a>
+
+<h3>Dashboard construindo:</h3>
+<img align='center' src='https://github.com/SMarkus27/Analise_Rodovias/blob/main/dash_power_bi.png'>
